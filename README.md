@@ -1,6 +1,3 @@
-Aquí tienes un **README.md** bien estructurado para tu proyecto **AmigoSecreto**. Este documento servirá para explicar de qué trata el proyecto, cómo configurarlo y utilizarlo.
-
----
 
 ## 📌 **Amigo Secreto**  
 Este es un proyecto desarrollado para gestionar y organizar un juego de Amigo Secreto de manera digital, permitiendo asignaciones aleatorias, notificaciones y otras funciones esenciales para facilitar el evento.
